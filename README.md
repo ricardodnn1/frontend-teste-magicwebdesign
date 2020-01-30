@@ -19,7 +19,7 @@ Biblioteca Javascript: jQuery, Owl Carousel 2, Bootstrap 4.
 
 Estrutura de pastas: 
     assets
-        - css => Folhas estilo utiliza para configuração do visual; 
+        - css => Folhas de estilo utilizadas para configurações do layout; 
         - js => contém todas bibliotecas utilizadas como jQuery.masckinput.js, owl.carousel.js;
         - fonts => fonts utilizadas;
         - images => todas imagens utilizada no teste; 
